@@ -1,0 +1,10 @@
+Cleaned the data in Power bi by using power query.
+Then started coming up with the visualizations which include;
+1. Total number of people who took the survey
+2. Average age of each Participant
+3. Average salary of each job title 
+4. Favorite programming languages
+5. countries of participants
+6. How happy are participants with work/life balance
+7. How happy are participants with their salary
+8. Average salary by industry and gender
